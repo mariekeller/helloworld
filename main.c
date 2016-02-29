@@ -2,6 +2,6 @@
  
 int main() {
     printf("Hello, World\n");
-	printf("asdfgh\n");
+	printf("QWERTY\n");
     return 0;
 }
